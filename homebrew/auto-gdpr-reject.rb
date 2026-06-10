@@ -11,7 +11,7 @@
 
 cask "auto-gdpr-reject" do
   version "1.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_RELEASE_SCRIPT"
+  sha256 "ecf1eb746cc7056359613478ccd0f6b8fce3b855d4428d947a4f05ab3d2c7298"
 
   url "https://github.com/chadwishner/AutoGDPRRejectExtension/releases/download/v#{version}/Auto-GDPR-Reject-#{version}.zip"
   name "Auto GDPR Reject"
