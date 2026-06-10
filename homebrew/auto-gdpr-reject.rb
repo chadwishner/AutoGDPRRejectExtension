@@ -10,8 +10,8 @@
 #   brew install --cask auto-gdpr-reject
 
 cask "auto-gdpr-reject" do
-  version "1.0"
-  sha256 "ecf1eb746cc7056359613478ccd0f6b8fce3b855d4428d947a4f05ab3d2c7298"
+  version "1.1"
+  sha256 "72d3308db9ce27f20531d8259c64b913d06366dfa9919c3c1d3b7d44c2246f1e"
 
   url "https://github.com/chadwishner/AutoGDPRRejectExtension/releases/download/v#{version}/Auto-GDPR-Reject-#{version}.zip"
   name "Auto GDPR Reject"
