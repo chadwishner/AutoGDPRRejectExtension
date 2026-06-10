@@ -1,0 +1,10 @@
+# Build products
+Auto GDPR Reject/build/
+dist/
+
+# Xcode user state
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
