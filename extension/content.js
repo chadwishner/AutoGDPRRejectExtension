@@ -115,6 +115,9 @@
         "continue without accepting", "continue without agreeing",
         "use necessary cookies only", "necessary cookies only",
         "only necessary", "only necessary cookies",
+        "only required cookies", "required cookies only", "only required",
+        "accept only required cookies", "accept required cookies only",
+        "allow only required cookies", "use required cookies only",
         "only essential", "essential cookies only", "only essential cookies",
         "use essential cookies only", "accept necessary",
         "accept only necessary", "accept only essential cookies",
@@ -124,7 +127,8 @@
         // German
         "alle ablehnen", "ablehnen", "alles ablehnen", "cookies ablehnen",
         "alle cookies ablehnen", "nur notwendige", "nur notwendige cookies",
-        "nur erforderliche cookies", "nur notwendige cookies akzeptieren",
+        "nur erforderliche cookies", "nur erforderliche",
+        "nur notwendige cookies akzeptieren",
         "weiter ohne zustimmung", "ohne zustimmung fortfahren",
         "nicht zustimmen", "nicht akzeptieren", "alle deaktivieren",
         // French
